@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshbdj25@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshkumar_bhardwaj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh25519)
-[![GSSoC](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.org/profile/82b5253c-aa2b-4af9-81e2-ff2168863af3
+[![GSSoC]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GSSoC-FF7F50?style=for-the-badge&logo=git&logoColor=white))](https://gssoc.girlscript.org/profile/82b5253c-aa2b-4af9-81e2-ff2168863af3
 )
 
 ---
