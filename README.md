@@ -51,8 +51,6 @@
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harsh25519&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0" height="150"/>
   &nbsp;
